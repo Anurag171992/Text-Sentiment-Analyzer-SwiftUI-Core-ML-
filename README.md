@@ -41,11 +41,7 @@ An iOS demo app built with **SwiftUI** and powered by a **Core ML model** traine
       Trained Data List (Actual vs Predicted)
     </td>
     <td align="center">
-      <img src="TextAnalyzerInput.png" alt="Text Analyzer Input" width="250"/><br/>
-      Text Analyzer Input (User Comment)
-    </td>
-    <td align="center">
-      <img src="Screenshots/TextAnalyzerResult.png" alt="Text Analyzer Result" width="250"/><br/>
+      <img src="Screenshots/TextAnalyzerInput.png" alt="Text Analyzer Result" width="250"/><br/>
       Text Analyzer Result (Positive/Negative)
     </td>
   </tr>
