@@ -18,7 +18,7 @@ An iOS demo app built with **SwiftUI** and powered by a **Core ML model** traine
 - Xcode 15+
 - Swift + SwiftUI
 - Core ML framework
-- Create ML (macOS) for training the model
+- Create ML for training the model
 
 ## 🛠 Technologies
 
