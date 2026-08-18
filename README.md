@@ -29,7 +29,7 @@ An iOS demo app built with **SwiftUI** and powered by a **Core ML model** traine
 
 ## 📂 Dataset / Inputs
 
-- Training and test datasets prepared in JSON/CSV format
+- Training and test datasets prepared in JSON format
 - Model trained in **Create ML app** with labeled text data (positive/negative)
 
 ## 📷 Screenshots
