@@ -15,6 +15,7 @@
 		75791B653034AE2800DCE1B6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		75791B683034AE4000DCE1B6 /* TrainedTextData.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TrainedTextData.png; sourceTree = "<group>"; };
 		75791B693034AE4000DCE1B6 /* TextAnalyzerInput.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextAnalyzerInput.png; sourceTree = "<group>"; };
+		75791B6A3034B13600DCE1B6 /* TextAnalyzerInputNegative.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextAnalyzerInputNegative.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -57,6 +58,7 @@
 		75791B673034AE3300DCE1B6 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				75791B6A3034B13600DCE1B6 /* TextAnalyzerInputNegative.png */,
 				75791B683034AE4000DCE1B6 /* TrainedTextData.png */,
 				75791B693034AE4000DCE1B6 /* TextAnalyzerInput.png */,
 			);

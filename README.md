@@ -42,7 +42,11 @@ An iOS demo app built with **SwiftUI** and powered by a **Core ML model** traine
     </td>
     <td align="center">
       <img src="Screenshots/TextAnalyzerInput.png" alt="Text Analyzer Result" width="250"/><br/>
-      Text Analyzer Result (Positive/Negative)
+      Text Analyzer Result (Positive)
+    </td>
+    <td align="center">
+      <img src="Screenshots/TextAnalyzerInputNegative.png" alt="Text Analyzer Result" width="250"/><br/>
+      Text Analyzer Result (Negative)
     </td>
   </tr>
 </table>
