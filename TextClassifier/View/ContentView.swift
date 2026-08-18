@@ -11,7 +11,7 @@ struct ContentView: View {
     
     @ObservedObject var viewModel = TextClassifierViewModel()
     @State private var showCheckTextClassifier = false
-        
+    
     var body: some View {
         NavigationView {
             
@@ -53,7 +53,6 @@ struct ContentView: View {
     }
 }
 
-
 #Preview {
     ContentView()
 }
@@ -81,13 +80,13 @@ struct CheckTextClassifier: View {
                     .stroke(Color.gray.opacity(0.5))
             )
             .padding()
-                
-
+            
+            
             Button("Classify") {
                 viewModel.classify(text: inputText)
             }
             .padding()
-
+            
             Text("Prediction: \(viewModel.predictedLabel)")
                 .font(.headline)
                 .padding()
